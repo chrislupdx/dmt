@@ -2,7 +2,9 @@
 
 Version 0.0.0
 
-##What is DMR for? DMR is an API designed from CM/DMs using the PBTA system organize and produce game assetts during play(see more PBTA)
+##What is DMR for?
+
+- DMR is an API designed from CM/DMs using the PBTA system organize and produce game assets during play(see more PBTA).  
 
 ##What is it for? NPC creation, Keyword tagging
 
