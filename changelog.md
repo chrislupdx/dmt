@@ -2,6 +2,19 @@
 
 ## [Unreleased]
 
+## [1.0.1] - 2019-12-
+
+### Added
+
+-NPC Object [name, description, health, passives]
+-NPC Routes
+    -POST
+    -GET, GET /:id
+    -PATCH name
+
+
+
+### Changed
 
 ## [1.0.0] - 2019-12-10
 
