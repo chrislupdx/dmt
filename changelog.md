@@ -10,11 +10,11 @@
 -NPC Routes
     -POST
     -GET, GET /:id
-    -PATCH name
-
+    -PATCH any NPC fields
 
 
 ### Changed
+-NPC GET routes now populate the actual names of the keywords
 
 ## [1.0.0] - 2019-12-10
 
