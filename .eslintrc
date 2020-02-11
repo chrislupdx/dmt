@@ -39,13 +39,13 @@
             "after": false
           },
           "if": {
-            "after": false
+            "after": true
           },
           "switch": {
             "after": false
           },
           "while": {
-            "after": false
+            "after": true
           },
           "catch": {
             "after": false
