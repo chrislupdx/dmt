@@ -2,19 +2,21 @@
 
 ## [Unreleased]
 
-## [1.0.1] - 2019-12-
+## [1.0.1] - 2019-12-13
 
 ### Added
 
+-NPC: PATCH keyword unit test (PATCH for keyword does work)
 -NPC Object [name, description, health, passives]
 -NPC Routes
-    -POST
-    -GET, GET /:id
-    -PATCH any NPC fields
-
+-POST
+-GET, GET /:id
+-PATCH any NPC fields
 
 ### Changed
+
 -NPC GET routes now populate the actual names of the keywords
+-NPC Object now creates a random human name one is not specified
 
 ## [1.0.0] - 2019-12-10
 
